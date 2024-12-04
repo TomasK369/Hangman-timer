@@ -1,0 +1,25 @@
+body {
+   font-size: 100px;  /* TUKAJ PREVERI NAJDALJŠO BESEDO ČE TI PRIDE LEPO ČEZ EKRAN */
+}
+
+div {
+    text-align: center;
+    margin: 100px;
+}
+
+button {
+    font-size: 50px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+}
+
+#gumbi {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#word {
+    letter-spacing: 5px;
+  }

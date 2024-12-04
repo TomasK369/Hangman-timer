@@ -1,0 +1,1 @@
+POMOČ chat gpt
